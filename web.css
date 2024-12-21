@@ -1,0 +1,89 @@
+
+#container {
+    width: 1920px;
+    height: 1243px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 100%;
+  }
+  
+
+  #mainTitle {
+    font-size: 48px;
+    color: #8564B8;
+    margin: 27px 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  
+  #chance {
+    padding: 24px 40px;
+    display: block;
+    width: 565px;
+    background-color: #FFE8E8;
+    color: #F00;
+    font-size: 32px;
+    box-sizing: border-box;
+    text-align: center; 
+    margin-left: 32px;
+  }
+  
+
+  #offer {
+    padding: 24px 40px;
+    margin-top: 32px 0;
+    margin-left: 32px;
+    background-color: #fff;
+    color: #85647B;
+    font-size: 40px;
+    border-right: 6px solid #05f;
+    border-left: 4px solid #C11574 ;
+    box-sizing: border-box;
+    width: 1023px;
+    text-align: center;
+  }
+  
+  #details {
+    padding: 24px 40px;
+    margin-top: 44px;
+    margin-left: 32px;
+    background-color: #FFE8E8;
+    color: #414651;
+    font-size: 32px;
+    border: 2px solid #FFC1C1;
+    box-sizing: border-box;
+    width: 1023px;
+    text-align: left; 
+  }
+  
+  #discount {
+    color: #FF4405;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+ 
+  #opportunity {
+    padding: 24px 40px;
+    margin-top: 36px;
+    margin-left: 32px;
+    background-color: #fff;
+    color: #0064CE;
+    font-size: 32px;
+    border: 2px solid #3538CD;
+    box-sizing: border-box;
+    width: 1069px;
+    text-align: right; 
+  }
+  
+
+  #image {
+    margin-top: 76px;
+    margin-left: 32px;
+    display: block;
+    width: 556px;
+    height: 347px;
+  }
+  
